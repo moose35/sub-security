@@ -1,0 +1,42 @@
+body{
+
+}
+#redBlock {
+    background-color: red;
+    border: none;
+    padding: 0px;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+#blueBlock {
+    background-color: blue;
+    border: none;
+    padding: 0px;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+#greenBlock {
+    background-color: green;
+    border: none;
+    padding: 0px;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+
+#yellowBlock{
+    background-color: yellow;
+    border: none;
+    padding: 0px;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    float: left;
+}
